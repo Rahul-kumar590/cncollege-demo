@@ -1,2 +1,3 @@
 # cncollege-demo
-this is my first git repository
+This is my first git repository
+Auther-Rahul Reddy
